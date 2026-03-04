@@ -43,6 +43,8 @@ This repository is a compact system design kit for distributed systems concepts.
 - [Coordination_XA_Transaction.md](Coordination_XA_Transaction.md#L1) — XA transactions and two-phase commit interoperability.
 
 ## Data Consistency
+
+- [Concept_Map_DataConsistency.md](Concept_Map_DataConsistency.md)
 - [Data_Consistency_Lost_Update.md](Data_Consistency_Lost_Update.md#L1) — lost update anomalies and mitigation.
 - [Data_Consistency_Monotonic_Reads.md](Data_Consistency_Monotonic_Reads.md#L1) — monotonic read guarantees and enforcement.
 - [Data_Consistency_MVCC.md](Data_Consistency_MVCC.md#L1) — multi-version concurrency control basics.
