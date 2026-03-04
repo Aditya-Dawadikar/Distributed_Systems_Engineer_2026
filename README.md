@@ -49,6 +49,12 @@ This repository is a compact system design kit for distributed systems concepts.
 - [Data_Consistency_Read_After_Write.md](Data_Consistency_Read_After_Write.md#L1) — read-after-write guarantees and patterns.
 - [Data_Consistency_Snapshot_Isolation.md](Data_Consistency_Snapshot_Isolation.md#L1) — snapshot isolation semantics.
 - [Data_Consistency_Write_Skew.md](Data_Consistency_Write_Skew.md#L1) — write skew anomalies and prevention.
+- [Data_Consistency_Causal_Consistency.md](Data_Consistency_Causal_Consistency.md#L1)
+- [Data_Consistency_Compare_and_Swap.md](Data_Consistency_Compare_and_Swap.md#L1)
+- [Data_Consistency_Linearizability.md](Data_Consistency_Linearizability.md#L1)
+- [Data_Consistency_Read_Committed.md](Data_Consistency_Read_Committed.md#L1)
+- [Data_Consistency_Serializable_Isolation.md](Data_Consistency_Serializable_Isolation.md#L1)
+- [Data_Consistency_Sequential_Consistency.md](Data_Consistency_Sequential_Consistency.md#L1)
 
 ## Data Parititioning
 - [Data_Partitioning_Consistent_hashing.md](Data_Partitioning_Consistent_hashing.md#L1) — consistent hashing and low-movement rebalancing.
